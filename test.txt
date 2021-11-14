@@ -2,6 +2,11 @@
 
 int main()
 {
+	int a;
+	
+	a = 100;
+	
+	ptintf("a is equal %d\n", a);
 	printf("Hello Wrorld!\n");
 	
 	return 0;
